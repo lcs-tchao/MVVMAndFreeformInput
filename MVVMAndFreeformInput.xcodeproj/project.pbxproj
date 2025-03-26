@@ -64,7 +64,6 @@
 			isa = PBXGroup;
 			children = (
 				AFAEA6ED2D94607600309441 /* Assets.xcassets */,
-				AFAEA6EE2D94607600309441 /* MVVMAndFreeformInputApp.swift */,
 				AFAEA6EF2D94607600309441 /* powerView.swift */,
 			);
 			path = Views;
@@ -89,6 +88,7 @@
 		AFAEA6F42D94607600309441 /* MVVMAndFreeformInput */ = {
 			isa = PBXGroup;
 			children = (
+				AFAEA6EE2D94607600309441 /* MVVMAndFreeformInputApp.swift */,
 				AFAEA6F02D94607600309441 /* Views */,
 				AFAEA6EC2D94607600309441 /* ViewModel */,
 				AFAEA6F12D94607600309441 /* Model */,
