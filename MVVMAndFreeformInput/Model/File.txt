@@ -1,0 +1,1 @@
+Organized the project so that there are groups for views, the model, and view models.
