@@ -10,6 +10,7 @@ struct Power {
     
     // MARK: Stored properties
     
+    
     // The base of the power can hold any numeric value
     var base: Double
     

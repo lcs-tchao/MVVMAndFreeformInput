@@ -8,6 +8,7 @@
 import Foundation
 //View Model
 // VIEW MODEL
+@Observable
 class PowerViewModel {
     
     // MARK: Stored properties
